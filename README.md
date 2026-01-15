@@ -14,8 +14,9 @@
 ├── A_Z_Handwritten_Data.csv # Набор данных (управляется через Git LFS)
 ├── .gitattributes          # Конфигурация для Git LFS
 └── .gitignore              # Правила игнорирования ненужных файлов
-
+```
 ## Устанавливаются в терминале следующие библиотеки
 
 ```bash
 pip install tensorflow numpy pandas scikit-learn matplotlib
+```
